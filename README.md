@@ -17,7 +17,7 @@ The following use cases have been identified for the specification of the propos
 •	Share files from cloud to directly friends or groups
 •	Change profile information
 •	Change email
-![alt text](https://github.com/piyalsmg/Chat-App-Android/blob/main/class.jpg)
+![alt text](https://github.com/piyalsmg/Chat-App-Android/blob/main/UCD.png)
 # Class Diagrams 
 The class diagram identifies all the classes for chat application and specifies for each class its attributes, operations, and relationships to other classes.
 ![alt text](https://github.com/piyalsmg/Chat-App-Android/blob/main/class.jpg)
