@@ -4,6 +4,4 @@ Problem identification, analysis of the data collected, literature review, desig
 The project has been continued to achieve the objective of protecting real-time data in cloud storage
 # Class Diagrams 
 The class diagram identifies all the classes for chat application and specifies for each class its attributes, operations, and relationships to other classes.
-
-
-![alt text](https://github.com/piyalsmg/Chat-App-Android/blob/main/IT2015003.pdf)
+![alt text](https://github.com/piyalsmg/Chat-App-Android/blob/main/class.jpg)
