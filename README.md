@@ -21,3 +21,7 @@ The following use cases have been identified for the specification of the propos
 # Class Diagrams 
 The class diagram identifies all the classes for chat application and specifies for each class its attributes, operations, and relationships to other classes.
 ![alt text](https://github.com/piyalsmg/Chat-App-Android/blob/main/class.jpg)
+
+#Mock screens of the systems
+Under this section some mock screens are showing related this project. 
+![alt text](https://github.com/piyalsmg/Chat-App-Android/blob/main/class.jpg)
