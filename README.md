@@ -24,4 +24,6 @@ The class diagram identifies all the classes for chat application and specifies 
 
 #Mock screens of the systems
 Under this section some mock screens are showing related this project. 
-![alt text](https://github.com/piyalsmg/Chat-App-Android/blob/main/class.jpg)
+![alt text](https://github.com/piyalsmg/Chat-App-Android/blob/main/Screen%20Shots/1.png)
+![alt text](https://github.com/piyalsmg/Chat-App-Android/blob/main/Screen%20Shots/2.png)
+![alt text](https://github.com/piyalsmg/Chat-App-Android/blob/main/Screen%20Shots/3.png)
