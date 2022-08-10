@@ -29,3 +29,4 @@ Under this section some mock screens are showing related this project.
 ![alt text](https://github.com/piyalsmg/Chat-App-Android/blob/main/Screen%20Shots/3.png)
 ![alt text](https://github.com/piyalsmg/Chat-App-Android/blob/main/Screen%20Shots/4.png)
 ![alt text](https://github.com/piyalsmg/Chat-App-Android/blob/main/Screen%20Shots/6.png)
+![alt text](https://github.com/piyalsmg/Chat-App-Android/blob/main/Screen%20Shots/7.png)
